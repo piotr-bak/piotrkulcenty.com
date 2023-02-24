@@ -9,6 +9,7 @@ main {
     align-items: center;
     height: 90vh;
     flex-direction: column;
+    padding-top: 4rem;
 }
 
 img {
@@ -18,7 +19,7 @@ img {
 }
 
 img:last-of-type {
-    padding-bottom: 6rem;
+    padding-bottom: 9rem;
 }
 
 a {
